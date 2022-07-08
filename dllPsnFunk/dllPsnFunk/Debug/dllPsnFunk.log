@@ -1,0 +1,5 @@
+﻿  dllPsnFunk.cpp
+C:\Users\Acer\source\repos\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(20,5): warning C4297: 'DllPsnFunk::Divide': function assumed not to throw an exception but does
+C:\Users\Acer\source\repos\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(20,5): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+     Creating library C:\Users\Acer\source\repos\dllPsnFunk\Debug\dllPsnFunk.lib and object C:\Users\Acer\source\repos\dllPsnFunk\Debug\dllPsnFunk.exp
+  dllPsnFunk.vcxproj -> C:\Users\Acer\source\repos\dllPsnFunk\Debug\dllPsnFunk.dll

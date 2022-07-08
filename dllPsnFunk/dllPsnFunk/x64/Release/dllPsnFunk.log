@@ -1,0 +1,73 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(505,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  dllPsnFunk.cpp
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(293,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(679,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(719,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(736,25): warning C4101: 'e': unreferenced local variable
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(930,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(941,57): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(958,56): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(973,48): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(974,74): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(975,46): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1015,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1043,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1069,27): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1069,27): message : consider using '%zd' in the format string
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1057,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1060,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1065,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1069,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1164,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1190,28): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1190,28): message : consider using '%zd' in the format string
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1178,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1181,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1186,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1190,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1169,13): warning C4101: 'outlen': unreferenced local variable
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1757,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1764,30): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1764,30): message : consider using '%zd' in the format string
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1936,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1959,30): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1959,30): message : consider using '%zd' in the format string
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(1940,13): warning C4101: 'outlen': unreferenced local variable
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(2148,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(2155,30): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(2155,30): message : consider using '%zd' in the format string
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(2254,32): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(2254,32): message : consider using '%zd' in the format string
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(2152,13): warning C4101: 'outlen': unreferenced local variable
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(2423,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(2441,30): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(2441,30): message : consider using '%zd' in the format string
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(2427,13): warning C4101: 'outlen': unreferenced local variable
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(2655,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(2673,30): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(2673,30): message : consider using '%zd' in the format string
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(2659,13): warning C4101: 'outlen': unreferenced local variable
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(2854,30): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(2854,30): message : consider using '%zd' in the format string
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(3391,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(3409,30): warning C4477: 'sprintf_s' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(3409,30): message : consider using '%zd' in the format string
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(3395,13): warning C4101: 'outlen': unreferenced local variable
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(3599,14): warning C4244: 'initializing': conversion from 'time_t' to 'long', possible loss of data
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(3639,20): warning C4477: 'sprintf' : format string '%lld' requires an argument of type '__int64', but variadic argument 2 has type 'long'
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(3639,20): message : consider using '%ld' in the format string
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(3668,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(3675,18): warning C4477: 'sprintf' : format string '%lld' requires an argument of type '__int64', but variadic argument 4 has type 'long'
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(3675,18): message : consider using '%ld' in the format string
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(3683,28): warning C4477: 'sprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(3683,28): message : consider using '%zd' in the format string
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(3639,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(3675,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(3683,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\dllPsnFunk\dllPsnFunk.cpp(3603,8): warning C4101: 'output': unreferenced local variable
+     Creating library C:\psn_funk_lib\dllPsnFunk.lib and object C:\psn_funk_lib\dllPsnFunk.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 301 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  dllPsnFunk.vcxproj -> C:\psn_funk_lib\dllPsnFunk.dll

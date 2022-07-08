@@ -1,0 +1,2 @@
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\x64\Release\pu\TestCSharp.pdb
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\dllPsnFunk\x64\Release\pu\TestCSharp.exe

@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\toAyra---finish\c#project\TestCSharp\TestCSharp\bin\x64\Debug\netcoreapp3.1\TestCSharp.exe
+C:\Users\user\Desktop\toAyra---finish\c#project\TestCSharp\TestCSharp\bin\x64\Debug\netcoreapp3.1\TestCSharp.deps.json
+C:\Users\user\Desktop\toAyra---finish\c#project\TestCSharp\TestCSharp\bin\x64\Debug\netcoreapp3.1\TestCSharp.runtimeconfig.json
+C:\Users\user\Desktop\toAyra---finish\c#project\TestCSharp\TestCSharp\bin\x64\Debug\netcoreapp3.1\TestCSharp.runtimeconfig.dev.json
+C:\Users\user\Desktop\toAyra---finish\c#project\TestCSharp\TestCSharp\bin\x64\Debug\netcoreapp3.1\TestCSharp.dll
+C:\Users\user\Desktop\toAyra---finish\c#project\TestCSharp\TestCSharp\bin\x64\Debug\netcoreapp3.1\TestCSharp.pdb
+C:\Users\user\Desktop\toAyra---finish\c#project\TestCSharp\TestCSharp\obj\x64\Debug\netcoreapp3.1\TestCSharp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\toAyra---finish\c#project\TestCSharp\TestCSharp\obj\x64\Debug\netcoreapp3.1\TestCSharp.AssemblyInfo.cs
+C:\Users\user\Desktop\toAyra---finish\c#project\TestCSharp\TestCSharp\obj\x64\Debug\netcoreapp3.1\TestCSharp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\toAyra---finish\c#project\TestCSharp\TestCSharp\obj\x64\Debug\netcoreapp3.1\TestCSharp.dll
+C:\Users\user\Desktop\toAyra---finish\c#project\TestCSharp\TestCSharp\obj\x64\Debug\netcoreapp3.1\TestCSharp.pdb
+C:\Users\user\Desktop\toAyra---finish\c#project\TestCSharp\TestCSharp\obj\x64\Debug\netcoreapp3.1\TestCSharp.genruntimeconfig.cache
+C:\Users\user\Desktop\toAyra---finish\c#project\TestCSharp\TestCSharp\obj\x64\Debug\netcoreapp3.1\TestCSharp.csprojAssemblyReference.cache

@@ -1,0 +1,2 @@
+D:\Working_d\first_task\to_Ayra(FINAL)\finalproject\proxidebug1\publish\TestCSharp.pdb
+D:\Working_d\first_task\to_Ayra(FINAL)\finalproject\proxidebug1\publish\TestCSharp.exe

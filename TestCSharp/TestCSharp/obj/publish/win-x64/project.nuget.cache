@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8oSuYZGAaWBYBBIRQr0HqGekk42T7GIrXuukIUd1rREb31PZjH8WiqJoPLFU2NgUxZ9Iz6PI+TcqF4AO5OpGog==",
+  "success": true,
+  "projectFilePath": "D:\\W_Dir\\Ayra_c++dll_c#test\\last_fix\\DllAlexProject\\AlexSource\\TestCSharp\\TestCSharp\\TestCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.13\\microsoft.netcore.app.runtime.win-x64.3.1.13.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.13\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.13.nupkg.sha512",
+    "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.13\\microsoft.aspnetcore.app.runtime.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

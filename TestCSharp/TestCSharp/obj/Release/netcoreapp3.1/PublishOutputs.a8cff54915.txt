@@ -1,0 +1,5 @@
+D:\Working_d\first_task\to_Ayra(FINAL)\finalproject\c#project\TestCSharp\TestCSharp\bin\Release\netcoreapp3.1\publish\TestCSharp.exe
+D:\Working_d\first_task\to_Ayra(FINAL)\finalproject\c#project\TestCSharp\TestCSharp\bin\Release\netcoreapp3.1\publish\TestCSharp.dll
+D:\Working_d\first_task\to_Ayra(FINAL)\finalproject\c#project\TestCSharp\TestCSharp\bin\Release\netcoreapp3.1\publish\TestCSharp.deps.json
+D:\Working_d\first_task\to_Ayra(FINAL)\finalproject\c#project\TestCSharp\TestCSharp\bin\Release\netcoreapp3.1\publish\TestCSharp.runtimeconfig.json
+D:\Working_d\first_task\to_Ayra(FINAL)\finalproject\c#project\TestCSharp\TestCSharp\bin\Release\netcoreapp3.1\publish\TestCSharp.pdb

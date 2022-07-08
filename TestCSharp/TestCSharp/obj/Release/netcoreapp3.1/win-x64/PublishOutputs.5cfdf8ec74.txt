@@ -1,0 +1,2 @@
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\TestCSharp\TestCSharp\bin\x64\Release\netcoreapp3.1\New folder\pu\TestCSharp.pdb
+D:\W_Dir\Ayra_c++dll_c#test\last_fix\DllAlexProject\AlexSource\TestCSharp\TestCSharp\bin\x64\Release\netcoreapp3.1\New folder\pu\TestCSharp.exe
